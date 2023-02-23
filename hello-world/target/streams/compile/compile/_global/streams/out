@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/behrad/codes/chisel-examples/hello-world/src/main/scala/Hello.scala:50:10: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m  blkReg2= 0.U[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

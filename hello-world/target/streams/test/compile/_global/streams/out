@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/behrad/codes/chisel-examples/hello-world/src/test/scala/WaveHelloTest.scala:4:7: HelloTest is already defined as class HelloTest[0m
+[0m[[0m[31merror[0m] [0m[0mclass HelloTest extends AnyFlatSpec with ChiselScalatestTester {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/behrad/codes/chisel-examples/seven_segment/src/main/scala/pwm.scala:42:13: not found: value totcyclesIn[0m
+[0m[[0m[31merror[0m] [0m[0m  middle := totcyclesIn / 2.U[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/behrad/codes/chisel-examples/seven_segment/src/main/scala/pwm.scala:47:3: not found: value stateReg[0m
+[0m[[0m[31merror[0m] [0m[0m  stateReg := Mux ( countReg < io.oncyclesIn, ampReg, 0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/behrad/codes/chisel-examples/seven_segment/src/main/scala/pwm.scala:49:18: not found: value stateReg[0m
+[0m[[0m[31merror[0m] [0m[0m  io.signalOut:= stateReg[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

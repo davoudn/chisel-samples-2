@@ -1,0 +1,17 @@
+[
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"generated"
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~PwmTriagular|PwmTriagular>io_signalOut",
+    "sources":[
+      "~PwmTriagular|PwmTriagular>io_oncyclesIn"
+    ]
+  }
+]
